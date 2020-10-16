@@ -1,0 +1,12 @@
+
+*.pdb
+obj/Debug/.NETFramework,Version=v4.6.2.AssemblyAttributes.cs
+obj/Debug/DesignTimeResolveAssemblyReferences.cache
+obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+obj/Debug/LoadArticles200.csproj.CoreCompileInputs.cache
+obj/Debug/LoadArticles200.csproj.FileListAbsolute.txt
+obj/Debug/LoadArticles200.csproj.GenerateResource.cache
+obj/Debug/LoadArticles200.csprojAssemblyReference.cache
+obj/Debug/LoadArticles200.exe
+obj/Debug/LoadArticles200.Form1.resources
+obj/Debug/LoadArticles200.Properties.Resources.resources
